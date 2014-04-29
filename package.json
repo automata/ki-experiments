@@ -1,0 +1,21 @@
+{
+  "name": "ki-experiments",
+  "version": "0.0.0",
+  "description": "Experiments using ki lang",
+  "main": "main.js",
+  "dependencies": {
+    "ki": "~0.1.19",
+    "mori": "~0.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ki",
+    "canvas",
+    "lisp"
+  ],
+  "author": "Vilson Vieira",
+  "license": "MIT"
+}
